@@ -27,11 +27,11 @@ const printTextsWithErrors = (sectionName, texts) => {
 }
 
 const checkForLatinLetters = (acc, text) => {
-  if (!text.match(/[a-z]/gi)) {
+  if (!text.match(/[’a-z]/gi)) {
     return acc
   }
 
-  const textWithHighlightedErrors = text.replace(/(['a-z])/gi, red('$&'))
+  const textWithHighlightedErrors = text.replace(/([’a-z])/gi, red('$&'))
   acc.push(textWithHighlightedErrors)
 
   return acc
