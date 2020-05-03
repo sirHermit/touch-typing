@@ -1,0 +1,24 @@
+{
+  "name": "touch-typing",
+  "version": "1.0.0",
+  "description": "Ukrainian typing dictionaries for different programs and services",
+  "scripts": {
+    "test": "node ./scripts/test-dictionary.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirHermit/touch-typing.git"
+  },
+  "keywords": [
+    "touch-typing"
+  ],
+  "author": "sir.hermit@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirHermit/touch-typing/issues"
+  },
+  "homepage": "https://github.com/sirHermit/touch-typing#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
