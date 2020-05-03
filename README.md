@@ -1,6 +1,8 @@
 # Українські словники для різних програм та сервісів для навчання сліпому набору
 Ukrainian typing dictionaries for different programs and services
 
+[![Build Status](https://travis-ci.org/sirHermit/touch-typing.svg?branch=master)](https://travis-ci.org/sirHermit/touch-typing)
+
 ## Як допомогти цьому репозиторію
 Було б чудово, якщо б ви змогли створити PR у потрібному вам словнику. Також не буде зайвою допомога у налаштуванні CI/CD для спрощення деплою словників на різні сервіси.
 
