@@ -25,7 +25,7 @@ https://uk.wikisource.org/w/index.php?search=
 ```
 chore: add excerpt by <ім'я автора або назва ресурсу латиницею>
 ```
-Наприклад, для уривку з книги Івана Нечуй-Левицького `message` буде мати такий вигляд:
+Наприклад, для уривка з книги Івана Нечуй-Левицького `message` буде мати такий вигляд:
 ```
 chore: add excerpt by Ivan Nechui-Levytskyi
 ```
